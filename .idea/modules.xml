@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BackgroundServiceExample/BackgroundServiceExample.iml" filepath="$PROJECT_DIR$/BackgroundServiceExample/BackgroundServiceExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackgroundServiceExampleProject.iml" filepath="$PROJECT_DIR$/BackgroundServiceExampleProject.iml" />
+    </modules>
+  </component>
+</project>
+
